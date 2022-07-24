@@ -34,3 +34,10 @@
 .client {
     margin-top: 55px;
 }
+
+footer {
+    height: 280px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+}
